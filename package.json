@@ -7,7 +7,7 @@
   "homepage": "https://github.com/ProjectOpenSea/seaport-js#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectOpenSea/seaport-js.git"
+    "url": "git+https://github.com/wivtech/seaport-js.git"
   },
   "bugs": {
     "url": "https://github.com/ProjectOpenSea/seaport-js/issues"
